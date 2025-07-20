@@ -1,8 +1,12 @@
 ## Hi there 👋 It's Nithiya_B
 
 - 🔭 Here's my [portfolio](https://nithiyaaaaa.github.io/projects/portfolio/index.html)                                              
-- 🌱 I’m currently learning and Integrating AI to my workflow
 
+I'm **Nithiya B**, a curious mind and creative tech enthusiast with a growing passion for **Web Design** and **Artificial Intelligence**.
+
+-🎓 Currently pursuing a degree in **Artificial Intelligence and Data Science**, where I explore the intersection of code, creativity, and problem-solving.  
+-📊 Worked as a **Data Analyst Intern**, gaining real-time industry experience in analyzing data and uncovering actionable insights.    
+-🧠 Actively strengthening my skills in **Data Structures and Algorithms**, and constantly seeking opportunities to turn ideas into impactful solutions.
 
 ### Languages Known
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
@@ -18,4 +22,4 @@
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithiya-b-0006b22a1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fromnithiyabaskarr@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithiyabaskarr@gmail.com)

@@ -1,6 +1,6 @@
 ## Hi there 👋 It's Nithiya_B
 
-- 🔭 Here's my [portfolio](https://nithiyaaaaa.github.io/projects/portfolio/index.html)                                              
+🔭 Here's my [portfolio](https://nithiyaaaaa.github.io/projects/portfolio/index.html)                                              
 
 I'm **Nithiya B**, a curious mind and creative tech enthusiast with a growing passion for **Web Design** and **Artificial Intelligence**.
 

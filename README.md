@@ -21,5 +21,5 @@ I'm **Nithiya B**, a curious mind and creative tech enthusiast with a growing pa
 [![Nithiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithiyaaaaa&bg_color=000000&color=ffffff&line=763271&point=b6a5a5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithiya-b-0006b22a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/B-NITHIYA)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithiyabaskarr@gmail.com)

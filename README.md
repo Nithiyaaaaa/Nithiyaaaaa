@@ -18,7 +18,7 @@ I'm **Nithiya B**, a curious mind and creative tech enthusiast with a growing pa
 ## LEETCODE
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Nithiya_B?theme=dark&font=Viga)
 
-[![Nithiya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithiyaaaaa&bg_color=000000&color=ffffff&line=763271&point=b6a5a5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/B-NITHIYA)
